@@ -1,5 +1,5 @@
 * https://dmitrylavrik.ru/portfolio
-* 
+* http://smartgrid.dmitrylavrik.ru/
 > Create adaptive CSS? It's fast and easy! With smart-grid!
 
 ## Install
